@@ -1,0 +1,1 @@
+Java-Deserialization-Scanner是一个BurpSuite的插件，用来自动化的发现java反序列化漏洞
